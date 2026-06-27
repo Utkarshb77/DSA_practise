@@ -104,4 +104,12 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Utkarshb77/DSA_practise/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Utkarshb77/DSA_practise/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
