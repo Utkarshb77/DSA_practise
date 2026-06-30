@@ -81,6 +81,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
@@ -126,4 +127,9 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## String
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
