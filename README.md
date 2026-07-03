@@ -76,6 +76,7 @@ Consider giving it a star ⭐
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -119,10 +120,12 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
 ## Sorting
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,4 +148,8 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
 <!---LeetCode Topics End-->
