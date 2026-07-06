@@ -152,4 +152,12 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
