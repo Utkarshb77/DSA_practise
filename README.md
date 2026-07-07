@@ -143,6 +143,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/Utkarshb77/DSA_practise/tree/master/2119-a-number-after-a-double-reversal) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
