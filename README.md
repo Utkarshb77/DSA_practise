@@ -75,6 +75,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
+| [0875-koko-eating-bananas](https://github.com/Utkarshb77/DSA_practise/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/Utkarshb77/DSA_practise/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
@@ -170,4 +171,8 @@ Consider giving it a star ⭐
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Utkarshb77/DSA_practise/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Utkarshb77/DSA_practise/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
