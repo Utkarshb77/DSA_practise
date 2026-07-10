@@ -73,6 +73,7 @@ Consider giving it a star ⭐
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
@@ -84,6 +85,7 @@ Consider giving it a star ⭐
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0142-linked-list-cycle-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
