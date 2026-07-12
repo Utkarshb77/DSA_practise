@@ -81,6 +81,7 @@ Consider giving it a star ⭐
 | [0875-koko-eating-bananas](https://github.com/Utkarshb77/DSA_practise/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/Utkarshb77/DSA_practise/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -173,6 +174,7 @@ Consider giving it a star ⭐
 | [0206-reverse-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0206-reverse-linked-list) |
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -186,10 +188,12 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
+| [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
+| [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
 ## Depth-First Search
 |  |
 | ------- |
