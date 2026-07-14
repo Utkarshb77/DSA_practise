@@ -75,6 +75,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0001-two-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/Utkarshb77/DSA_practise/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
@@ -206,4 +207,12 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Utkarshb77/DSA_practise/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Utkarshb77/DSA_practise/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
