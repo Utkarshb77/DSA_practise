@@ -152,6 +152,7 @@ Consider giving it a star ⭐
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Utkarshb77/DSA_practise/tree/master/2119-a-number-after-a-double-reversal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -163,6 +164,7 @@ Consider giving it a star ⭐
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
 |  |
@@ -218,4 +220,8 @@ Consider giving it a star ⭐
 | ------- |
 | [0078-subsets](https://github.com/Utkarshb77/DSA_practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
