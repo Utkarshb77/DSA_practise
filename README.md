@@ -150,6 +150,7 @@ Consider giving it a star ⭐
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Utkarshb77/DSA_practise/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -162,6 +163,7 @@ Consider giving it a star ⭐
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Utkarshb77/DSA_practise/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0142-linked-list-cycle-ii) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0876-middle-of-the-linked-list) |
