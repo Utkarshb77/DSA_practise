@@ -236,4 +236,8 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Utkarshb77/DSA_practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Utkarshb77/DSA_practise/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
