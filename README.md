@@ -158,6 +158,7 @@ Consider giving it a star ⭐
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Utkarshb77/DSA_practise/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Utkarshb77/DSA_practise/tree/master/2119-a-number-after-a-double-reversal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -192,6 +193,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Utkarshb77/DSA_practise/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Utkarshb77/DSA_practise/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
