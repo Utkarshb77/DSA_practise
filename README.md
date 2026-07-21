@@ -211,6 +211,7 @@ Consider giving it a star ⭐
 ## Depth-First Search
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -244,4 +245,12 @@ Consider giving it a star ⭐
 | [1148-article-views-i](https://github.com/Utkarshb77/DSA_practise/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Utkarshb77/DSA_practise/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Utkarshb77/DSA_practise/tree/master/1683-invalid-tweets) |
+## Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
