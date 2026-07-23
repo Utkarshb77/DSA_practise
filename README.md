@@ -78,6 +78,7 @@ Consider giving it a star ⭐
 | [0078-subsets](https://github.com/Utkarshb77/DSA_practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Utkarshb77/DSA_practise/tree/master/0875-koko-eating-bananas) |
@@ -107,6 +108,7 @@ Consider giving it a star ⭐
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -140,6 +142,7 @@ Consider giving it a star ⭐
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Utkarshb77/DSA_practise/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1288-remove-covered-intervals](https://github.com/Utkarshb77/DSA_practise/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -181,6 +184,7 @@ Consider giving it a star ⭐
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
 ## Linked List
 |  |
@@ -278,4 +282,8 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Utkarshb77/DSA_practise/tree/master/0950-reveal-cards-in-increasing-order) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
