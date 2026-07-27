@@ -83,6 +83,7 @@ Consider giving it a star ⭐
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Utkarshb77/DSA_practise/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Utkarshb77/DSA_practise/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Utkarshb77/DSA_practise/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Utkarshb77/DSA_practise/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -209,6 +210,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Utkarshb77/DSA_practise/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
@@ -229,6 +231,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Utkarshb77/DSA_practise/tree/master/0102-binary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
