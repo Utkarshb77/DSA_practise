@@ -149,6 +149,7 @@ Consider giving it a star ⭐
 | [1288-remove-covered-intervals](https://github.com/Utkarshb77/DSA_practise/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Utkarshb77/DSA_practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -162,6 +163,7 @@ Consider giving it a star ⭐
 | [0125-valid-palindrome](https://github.com/Utkarshb77/DSA_practise/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -293,4 +295,8 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
