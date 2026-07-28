@@ -106,6 +106,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 ## Divide and Conquer
 |  |
@@ -230,18 +231,21 @@ Consider giving it a star ⭐
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Utkarshb77/DSA_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Utkarshb77/DSA_practise/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
