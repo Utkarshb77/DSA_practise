@@ -3,9 +3,7 @@ class Solution {
     public int longestConsecutive(int[] nums) {
         int longest = 0;
         HashSet<Integer> hs = new HashSet<>();
-        boolean[] arr = new boolean[nums.length];
-        for(int i=0;i<nums.length;i++) hs.add(nums[i]);
-        int bada = 0;
+        for(int i : nums ) hs.add(i);
         for(int num : hs){
             if(!hs.contains(num-1)){ // if hashset does not contains num-1 means this number is start of new sequence.
                 int count=1;
@@ -20,7 +18,6 @@ class Solution {
         return longest;
     }
 }
-
 
 // Not sorted but min and max also gives TLE:
 // class Solution {
