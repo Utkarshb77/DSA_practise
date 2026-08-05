@@ -242,6 +242,7 @@ Consider giving it a star ⭐
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshb77/DSA_practise/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -252,6 +253,7 @@ Consider giving it a star ⭐
 | [0210-course-schedule-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshb77/DSA_practise/tree/master/3310-remove-methods-from-project) |
@@ -262,6 +264,7 @@ Consider giving it a star ⭐
 | [0210-course-schedule-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshb77/DSA_practise/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -325,8 +328,17 @@ Consider giving it a star ⭐
 | ------- |
 | [0207-course-schedule](https://github.com/Utkarshb77/DSA_practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Utkarshb77/DSA_practise/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
