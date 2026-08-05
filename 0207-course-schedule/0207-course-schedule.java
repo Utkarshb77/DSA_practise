@@ -1,3 +1,5 @@
+// Stack Solution:
+
 class Solution {
     public boolean canFinish(int n, int[][] arr ) {
         List<List<Integer>> ls = new ArrayList<>();
@@ -11,27 +13,28 @@ class Solution {
             ls.get(v).add(u);
             indegree[u]++; 
         }
-        Queue<Integer> q = new LinkedList<>();
+        Stack<Integer> st = new Stack<>();
         for(int i=0;i<n;i++){
-            if(indegree[i] == 0){
-                q.add(i);
-            }
+            if(indegree[i] == 0) st.push(i);
         }
-        int count = 0;
-        while(q.size() > 0){
-            int rem  = q.poll();
-            count++;
-            List<Integer> lls = ls.get(rem); 
-            for(int i : lls){
-                indegree[i]--;
-                if(indegree[i] == 0){
-                    q.add(i);
-                }
-            }
-        }
+        int count = dfs(indegree, ls , st);
         return count == n;
     }
+    public static int dfs(int[] indegree ,  List<List<Integer>> ls , Stack<Integer> st){
+        int count = 0;
+        while(!st.isEmpty()){
+            int rem = st.pop();
+            count++;
+            for(int i : ls.get(rem)){
+                indegree[i]--;
+                if(indegree[i] == 0) st.push(i);
+            }
+        }
+        return count;
+    }
 }
+
+// Kahn's ALGO (BFS solution)
 
 /*
 class Solution {
