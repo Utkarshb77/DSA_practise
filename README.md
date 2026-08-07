@@ -174,6 +174,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Utkarshb77/DSA_practise/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Utkarshb77/DSA_practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Utkarshb77/DSA_practise/tree/master/2119-a-number-after-a-double-reversal) |
@@ -191,6 +192,7 @@ Consider giving it a star ⭐
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Utkarshb77/DSA_practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
@@ -352,4 +354,8 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Utkarshb77/DSA_practise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
