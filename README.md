@@ -175,6 +175,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0050-powx-n](https://github.com/Utkarshb77/DSA_practise/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Utkarshb77/DSA_practise/tree/master/2119-a-number-after-a-double-reversal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Utkarshb77/DSA_practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -191,6 +192,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
 |  |
@@ -251,6 +253,7 @@ Consider giving it a star ⭐
 | [0102-binary-tree-level-order-traversal](https://github.com/Utkarshb77/DSA_practise/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/Utkarshb77/DSA_practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
@@ -341,4 +344,12 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
