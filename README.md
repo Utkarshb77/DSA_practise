@@ -75,6 +75,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0001-two-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Utkarshb77/DSA_practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
@@ -193,6 +194,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Utkarshb77/DSA_practise/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
@@ -225,6 +227,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Utkarshb77/DSA_practise/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
