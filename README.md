@@ -100,6 +100,7 @@ Consider giving it a star ⭐
 | [0001-two-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0142-linked-list-cycle-ii) |
+| [0567-permutation-in-string](https://github.com/Utkarshb77/DSA_practise/tree/master/0567-permutation-in-string) |
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -160,6 +161,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Utkarshb77/DSA_practise/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -167,6 +169,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Utkarshb77/DSA_practise/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Utkarshb77/DSA_practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Utkarshb77/DSA_practise/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -186,6 +189,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0125-valid-palindrome](https://github.com/Utkarshb77/DSA_practise/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0142-linked-list-cycle-ii) |
+| [0567-permutation-in-string](https://github.com/Utkarshb77/DSA_practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Utkarshb77/DSA_practise/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0876-middle-of-the-linked-list) |
