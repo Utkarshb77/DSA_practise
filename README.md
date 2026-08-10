@@ -82,6 +82,7 @@ Consider giving it a star ⭐
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
+| [0741-cherry-pickup](https://github.com/Utkarshb77/DSA_practise/tree/master/0741-cherry-pickup) |
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Utkarshb77/DSA_practise/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Utkarshb77/DSA_practise/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -202,6 +203,7 @@ Consider giving it a star ⭐
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
+| [0741-cherry-pickup](https://github.com/Utkarshb77/DSA_practise/tree/master/0741-cherry-pickup) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,6 +234,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0063-unique-paths-ii) |
+| [0741-cherry-pickup](https://github.com/Utkarshb77/DSA_practise/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Utkarshb77/DSA_practise/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
