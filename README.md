@@ -93,6 +93,7 @@ Consider giving it a star ⭐
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Utkarshb77/DSA_practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Utkarshb77/DSA_practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -104,6 +105,7 @@ Consider giving it a star ⭐
 | [0567-permutation-in-string](https://github.com/Utkarshb77/DSA_practise/tree/master/0567-permutation-in-string) |
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Utkarshb77/DSA_practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
@@ -166,6 +168,7 @@ Consider giving it a star ⭐
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Utkarshb77/DSA_practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
