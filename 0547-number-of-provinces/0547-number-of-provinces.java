@@ -1,21 +1,20 @@
 class Solution {
     public int findCircleNum(int[][] arr) {
-        boolean[] vis = new boolean[arr.length];
         int ans = 0;
+        boolean[] vis = new boolean[arr.length];
         for(int i=0;i<arr.length;i++){
             if(!vis[i]){
-                vis[i] = true;
-                dfs( i , vis , arr);
                 ans++;
+                dfs(i , vis , arr);
             }
         }
         return ans;
     }
-    void dfs( int row , boolean[] vis , int[][] arr){
-        for(int i=0;i<arr.length;i++){
-            if( arr[row][i] == 1 && !vis[i]){
-                vis[i] = true;
-                dfs(i , vis , arr);
+    public static void dfs( int i , boolean[] vis , int[][] arr){
+        vis[i] = true;
+        for(int j=0;j<arr[i].length;j++){
+            if( i != j && arr[i][j] == 1 && !vis[j]){
+                dfs(j , vis , arr);
             }
         }
     }
