@@ -1,51 +1,46 @@
 class Solution {
-    int ans = 0;
     public int countCompleteComponents(int n, int[][] edges) {
-        List<List<Integer>> graph = grap(edges , n);
-        boolean[] bool = new boolean[n];
+        int ans = 0;
+        List<List<Integer>> graph = Graph(n , edges);
+        boolean[] vis = new boolean[n];
         for(int i=0;i<n;i++){
-            if(bool[i] == false){
-                bfs( graph , bool , i);
+            if(!vis[i]){
+                List<Integer> comp = new ArrayList<>();
+                dfs(i , graph , vis , comp);
+                int size = comp.size();
+                int count = 0;
+                for(int j=0;j<size;j++){
+                    if(graph.get(comp.get(j)).size() == size-1){
+                        count++;;
+                    }
+                }
+                if( count == size) ans++;
             }
         }
         return ans;
     }
-    public static List<List<Integer>> grap(int[][] arr , int n){
+    public static void dfs(int src , List<List<Integer>> ls , boolean[] vis , List<Integer> comp){
+        List<Integer> lls = ls.get(src);
+        comp.add(src);
+        vis[src] = true;
+        for(int i : ls.get(src)){
+            if(!vis[i]){
+                dfs(i , ls , vis , comp);
+            }
+        }
+        return;
+    }
+    public static List<List<Integer>> Graph( int n , int[][] arr){
         List<List<Integer>> ls = new ArrayList<>();
         for(int i=0;i<n;i++){
             ls.add(new ArrayList<>());
         }
-        for(int i=0;i<arr.length;i++){
-            int u = arr[i][0];
-            int v = arr[i][1];
-            ls.get(u).add(v);
-            ls.get(v).add(u);
+        for(int[] x : arr){
+            int u = x[0];
+            int v = x[1];
+            ls.get(x[0]).add(x[1]);
+            ls.get(x[1]).add(x[0]);
         }
         return ls;
-    }
-    public void bfs( List<List<Integer>> graph , boolean[] bool , int edge ){
-        Queue<Integer> q = new LinkedList<>();
-        List<Integer> component = new ArrayList<>();
-        q.add(edge);
-        bool[edge] = true;
-        while(!q.isEmpty()){
-            int e = q.poll();
-            component.add(e);
-            List<Integer> ls = graph.get(e);
-            for(int i=0;i<ls.size();i++){
-                int nei = ls.get(i);
-                if(!bool[nei]){
-                    bool[nei] = true;
-                    q.add(nei);
-                }
-            }   
-        }
-        int size = component.size();
-        for (int i : component) {
-            if (graph.get(i).size() != size - 1) {
-                return;
-            }
-        }
-        ans++;
     }
 }
