@@ -82,6 +82,7 @@ Consider giving it a star ⭐
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarshb77/DSA_practise/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Utkarshb77/DSA_practise/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/Utkarshb77/DSA_practise/tree/master/0741-cherry-pickup) |
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Utkarshb77/DSA_practise/tree/master/0875-koko-eating-bananas) |
@@ -113,6 +114,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshb77/DSA_practise/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Utkarshb77/DSA_practise/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Utkarshb77/DSA_practise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
@@ -240,6 +242,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0063-unique-paths-ii) |
+| [0695-max-area-of-island](https://github.com/Utkarshb77/DSA_practise/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/Utkarshb77/DSA_practise/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Utkarshb77/DSA_practise/tree/master/1260-shift-2d-grid) |
@@ -261,6 +264,7 @@ Consider giving it a star ⭐
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Utkarshb77/DSA_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Utkarshb77/DSA_practise/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Utkarshb77/DSA_practise/tree/master/0841-keys-and-rooms) |
@@ -276,6 +280,7 @@ Consider giving it a star ⭐
 | [0210-course-schedule-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Utkarshb77/DSA_practise/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Utkarshb77/DSA_practise/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Utkarshb77/DSA_practise/tree/master/0841-keys-and-rooms) |
