@@ -90,6 +90,7 @@ Consider giving it a star ⭐
 | [1260-shift-2d-grid](https://github.com/Utkarshb77/DSA_practise/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Utkarshb77/DSA_practise/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Utkarshb77/DSA_practise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
@@ -186,6 +187,7 @@ Consider giving it a star ⭐
 | [0062-unique-paths](https://github.com/Utkarshb77/DSA_practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Utkarshb77/DSA_practise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Utkarshb77/DSA_practise/tree/master/2119-a-number-after-a-double-reversal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Utkarshb77/DSA_practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -262,6 +264,7 @@ Consider giving it a star ⭐
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Utkarshb77/DSA_practise/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Utkarshb77/DSA_practise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshb77/DSA_practise/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -276,6 +279,7 @@ Consider giving it a star ⭐
 | [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Utkarshb77/DSA_practise/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Utkarshb77/DSA_practise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshb77/DSA_practise/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -287,6 +291,7 @@ Consider giving it a star ⭐
 | [0785-is-graph-bipartite](https://github.com/Utkarshb77/DSA_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Utkarshb77/DSA_practise/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Utkarshb77/DSA_practise/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Utkarshb77/DSA_practise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Utkarshb77/DSA_practise/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Utkarshb77/DSA_practise/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -375,4 +380,8 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Utkarshb77/DSA_practise/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Utkarshb77/DSA_practise/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
