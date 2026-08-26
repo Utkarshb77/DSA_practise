@@ -91,6 +91,7 @@ Consider giving it a star ⭐
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Utkarshb77/DSA_practise/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Utkarshb77/DSA_practise/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Utkarshb77/DSA_practise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Utkarshb77/DSA_practise/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Utkarshb77/DSA_practise/tree/master/1288-remove-covered-intervals) |
@@ -127,6 +128,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -164,6 +166,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Utkarshb77/DSA_practise/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/Utkarshb77/DSA_practise/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
@@ -194,6 +197,7 @@ Consider giving it a star ⭐
 | [0062-unique-paths](https://github.com/Utkarshb77/DSA_practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Utkarshb77/DSA_practise/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Utkarshb77/DSA_practise/tree/master/0279-perfect-squares) |
+| [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshb77/DSA_practise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Utkarshb77/DSA_practise/tree/master/2119-a-number-after-a-double-reversal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -221,6 +225,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
 ## Linked List
 |  |
@@ -370,6 +375,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
@@ -407,5 +413,10 @@ Consider giving it a star ⭐
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Utkarshb77/DSA_practise/tree/master/2101-detonate-the-maximum-bombs) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
