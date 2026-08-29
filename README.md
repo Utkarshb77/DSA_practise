@@ -274,6 +274,7 @@ Consider giving it a star ⭐
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Utkarshb77/DSA_practise/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Utkarshb77/DSA_practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0210-course-schedule-ii) |
@@ -328,6 +329,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0078-subsets](https://github.com/Utkarshb77/DSA_practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Utkarshb77/DSA_practise/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Utkarshb77/DSA_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0700-search-in-a-binary-search-tree) |
@@ -359,6 +362,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Utkarshb77/DSA_practise/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Utkarshb77/DSA_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Utkarshb77/DSA_practise/tree/master/0700-search-in-a-binary-search-tree) |
