@@ -237,6 +237,7 @@ Consider giving it a star ⭐
 | [0206-reverse-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0206-reverse-linked-list) |
 | [0817-linked-list-components](https://github.com/Utkarshb77/DSA_practise/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarshb77/DSA_practise/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Utkarshb77/DSA_practise/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2326-spiral-matrix-iv](https://github.com/Utkarshb77/DSA_practise/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
