@@ -156,6 +156,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0155-min-stack](https://github.com/Utkarshb77/DSA_practise/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/Utkarshb77/DSA_practise/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Consider giving it a star ⭐
 | [0567-permutation-in-string](https://github.com/Utkarshb77/DSA_practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Utkarshb77/DSA_practise/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utkarshb77/DSA_practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -435,4 +437,8 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
