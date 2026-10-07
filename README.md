@@ -156,6 +156,7 @@ Consider giving it a star ⭐
 | ------- |
 | [0155-min-stack](https://github.com/Utkarshb77/DSA_practise/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/Utkarshb77/DSA_practise/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshb77/DSA_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
@@ -164,6 +165,7 @@ Consider giving it a star ⭐
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshb77/DSA_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Utkarshb77/DSA_practise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
@@ -194,6 +196,7 @@ Consider giving it a star ⭐
 | [0567-permutation-in-string](https://github.com/Utkarshb77/DSA_practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Utkarshb77/DSA_practise/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Utkarshb77/DSA_practise/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshb77/DSA_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utkarshb77/DSA_practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -440,5 +443,6 @@ Consider giving it a star ⭐
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshb77/DSA_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
