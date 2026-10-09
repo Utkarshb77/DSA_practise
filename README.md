@@ -158,6 +158,7 @@ Consider giving it a star ⭐
 | [0844-backspace-string-compare](https://github.com/Utkarshb77/DSA_practise/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshb77/DSA_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Utkarshb77/DSA_practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshb77/DSA_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Utkarshb77/DSA_practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Utkarshb77/DSA_practise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Utkarshb77/DSA_practise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2611-mice-and-cheese](https://github.com/Utkarshb77/DSA_practise/tree/master/2611-mice-and-cheese) |
@@ -199,6 +201,7 @@ Consider giving it a star ⭐
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshb77/DSA_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshb77/DSA_practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Utkarshb77/DSA_practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utkarshb77/DSA_practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Utkarshb77/DSA_practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -449,4 +452,5 @@ Consider giving it a star ⭐
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarshb77/DSA_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarshb77/DSA_practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Utkarshb77/DSA_practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
