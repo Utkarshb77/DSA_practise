@@ -74,6 +74,7 @@ Consider giving it a star ⭐
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0018-4sum) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Utkarshb77/DSA_practise/tree/master/0078-subsets) |
@@ -174,6 +175,7 @@ Consider giving it a star ⭐
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshb77/DSA_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Utkarshb77/DSA_practise/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Utkarshb77/DSA_practise/tree/master/0973-k-closest-points-to-origin) |
@@ -219,6 +221,7 @@ Consider giving it a star ⭐
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Utkarshb77/DSA_practise/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Utkarshb77/DSA_practise/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Utkarshb77/DSA_practise/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Utkarshb77/DSA_practise/tree/master/0567-permutation-in-string) |
